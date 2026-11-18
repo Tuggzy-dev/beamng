@@ -1,0 +1,18 @@
+{
+  "Name": "Greenpower F24 2025",
+  "Brand": "Greenpower",
+  "Type": "Car",
+  "Body Style": "Open-wheel",
+  "Country": "United Kingdom",
+  "Years": {
+    "min": 2025,
+    "max": 2025
+  },
+  "default_pc": "gp25_default",
+  "Config Type": "Custom",
+  "Fuel Type": "Battery",
+  "Propulsion": "Electric",
+  "Drivetrain": "RWD",
+  "Transmission": "Other",
+  "Weight": 100
+}

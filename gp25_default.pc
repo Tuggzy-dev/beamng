@@ -1,0 +1,8 @@
+{
+  "format": 2,
+  "model": "gp25",
+  "parts": {
+    "gp25": "gp25"
+  },
+  "vars": {}
+}
